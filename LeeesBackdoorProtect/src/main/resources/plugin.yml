@@ -5,6 +5,7 @@ api-version: 1.13
 authors: [Nate, Legault]
 description: Leees Anti Backdoor
 website: http://6b6t.org
+folia-supported: true
 commands:
   allowcreative:
     description: allows gmc nigga
